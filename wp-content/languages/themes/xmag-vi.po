@@ -1,0 +1,496 @@
+# Translation of Themes - xMag in Vietnamese
+# This file is distributed under the same license as the Themes - xMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-10 01:06:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - xMag\n"
+
+#. Theme Name of the plugin/theme
+msgid "xMag"
+msgstr "xMag"
+
+#. Description of the plugin/theme
+msgid "xMag is a free Magazine WordPress Theme. It features a simple and elegant design. This theme comes with great features for magazine, blog and news websites."
+msgstr "xMag là giao diện miễn phí theo bố cục tạp chí, với thiết kế đơn giản nhưng thu hút. Giao diện này rất phù hợp để xây dựng website dành cho tạp chí, viết blog hay website tin tức."
+
+#: inc/template-tags.php:60
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Đăng vào"
+
+#: inc/template-tags.php:26 inc/template-tags.php:76
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/customizer.php:351
+msgid "Post"
+msgstr "Bài viết"
+
+#: inc/customizer.php:477
+msgid "Site Tagline"
+msgstr "Tagline website"
+
+#: inc/customizer.php:75
+msgid "Site Title"
+msgstr "Tên website"
+
+#: inc/customizer.php:48
+msgid "Follow on Twitter"
+msgstr "Theo dõi trên Twitter"
+
+#: inc/customizer.php:44
+msgid "Rate This Theme"
+msgstr "Đánh giá giao diện này"
+
+#: inc/customizer.php:40
+msgid "Theme Documentation"
+msgstr "Tài liệu về giao diện"
+
+#: inc/customizer.php:36
+msgid "Theme Homepage"
+msgstr "Trang chủ tác giả giao diện"
+
+#: inc/customizer.php:32
+msgid "Try xMag Plus"
+msgstr "Nâng cấp lên xMag Plus"
+
+#: functions.php:172
+msgid "Add widgets here to appear in your Sidebar."
+msgstr "Thêm widget ở đây để hiển thị trong Sidebar của bạn."
+
+#: footer.php:48
+msgid "https://www.designlabthemes.com/"
+msgstr "https://www.designlabthemes.com/"
+
+#: functions.php:384
+msgid "Y"
+msgstr "Y"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Trả lời &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Một trả lời tới to &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:435
+msgid "Display Scroll Up button"
+msgstr "Hiển thị nút Scroll lên trên cùng"
+
+#: inc/customizer.php:363 inc/customizer.php:399
+msgid "Display Featured Image"
+msgstr "Hiển thị ảnh đại diện"
+
+#: inc/customizer.php:137
+msgid "Minimal"
+msgstr "Tối giản"
+
+#: inc/customizer.php:136
+msgid "White"
+msgstr "Trắng"
+
+#: inc/customizer.php:135
+msgid "Grey"
+msgstr "Xám"
+
+#: inc/customizer.php:131
+msgid "Widgets Style"
+msgstr "Kiểu widget"
+
+#: inc/customizer.php:258
+msgid "Display Header Image on Mobile"
+msgstr "Hiển thị ảnh to trên mobile"
+
+#: inc/customizer.php:246
+msgid "Height (If you change the size you have to add a new image)"
+msgstr "Chiều cao (Nếu bạn đổi, bạn cần thêm ảnh mới)"
+
+#: inc/customizer.php:234
+msgid "Width (If you change the size you have to add a new image)"
+msgstr "Chiều rộng (Nếu bạn đổi, bạn cần thêm ảnh mới)"
+
+#: inc/customizer.php:221
+msgid "Display Search Form in the Top Menu"
+msgstr "Hiển thị ô tìm kiếm trên đầu website"
+
+#: inc/customizer.php:147
+msgid "Display Read More Link"
+msgstr "Hiển thị liên kết Xem thêm"
+
+#: inc/customizer.php:308 inc/customizer.php:344
+msgid "Excerpt length"
+msgstr "Chiều dài đoạn giới thiệu"
+
+#: inc/customizer.php:233
+msgid "Header Image"
+msgstr "Ảnh to trên cùng"
+
+#: template-parts/content-single.php:73
+msgid "Next Post"
+msgstr "Bài tiếp theo"
+
+#: template-parts/content-single.php:72
+msgid "Previous Post"
+msgstr "Bài cũ hơn"
+
+#: inc/customizer.php:328
+msgid "Archives Layout"
+msgstr "Giao diện trang Lưu trữ"
+
+#: inc/customizer.php:315
+msgid "Categories and Archives"
+msgstr "Danh mục và Trang lưu trữ"
+
+#: inc/customizer.php:297
+msgid "Full Content Post + Sidebar"
+msgstr "Bài đầy đủ + Cột bên"
+
+#: inc/customizer.php:296 inc/customizer.php:334
+msgid "Classic: Large Posts + Sidebar"
+msgstr "Cơ bản: Bài hiển thị lớn + Cột bên"
+
+#: inc/customizer.php:295
+msgid "List: Medium Thumbnail + Sidebar"
+msgstr "Danh sách: Ảnh trung bình + Cột bên"
+
+#: inc/customizer.php:294
+msgid "List: Small Thumbnail + Sidebar"
+msgstr "Danh sách: Ảnh nhỏ + Cột bên"
+
+#: inc/customizer.php:280
+msgid "Settings for Blog Homepage."
+msgstr "Thiết lập cho trang chủ Blog."
+
+#: inc/customizer.php:103
+msgid "General Settings."
+msgstr "Thiết lập chung."
+
+#: inc/customizer.php:100
+msgid "General"
+msgstr "Tổng quan"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Page Template"
+msgstr "Giao diện không cột bên"
+
+#: template-parts/content-large.php:51 template-parts/content-search.php:40
+#: template-parts/content.php:38
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: template-parts/author-bio.php:20
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết của %s"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kết quả cho:"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: inc/template-tags.php:114 template-parts/content-page.php:46
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/template-tags.php:109
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:107
+msgid "Leave a comment"
+msgstr "Viết bình luận"
+
+#: inc/template-tags.php:100
+msgid "Tag: %1$s"
+msgstr "Tag: %1$s"
+
+#: inc/template-tags.php:94
+msgid "Category: %1$s"
+msgstr "Danh mục: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:491
+msgid "Footer Background"
+msgstr "Nền cuối trang"
+
+#: inc/customizer.php:463
+msgid "Header Background"
+msgstr "Nền đầu trang"
+
+#: inc/customizer.php:449
+msgid "Accent Color"
+msgstr "Màu chính"
+
+#: inc/customizer.php:80
+msgid "xMag Links"
+msgstr "Liên kết của xMag"
+
+#: inc/customizer.php:423
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: inc/customizer.php:387
+msgid "Page"
+msgstr "Trang"
+
+#: inc/customizer.php:380 inc/customizer.php:416
+msgid "Full Width (images must be at least 1120px)"
+msgstr "Rộng tối đa (ảnh nên rộng tối thiểu 1120px)"
+
+#: inc/customizer.php:379 inc/customizer.php:415
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer.php:375 inc/customizer.php:411
+msgid "Featured Image Size"
+msgstr "Kích thước ảnh đại diện"
+
+#: inc/customizer.php:333
+msgid "Medium Thumbnail + Sidebar"
+msgstr "Ảnh trung bình + Cột bên"
+
+#: inc/customizer.php:332
+msgid "Small Thumbnail + Sidebar"
+msgstr "Ảnh nhỏ + Cột bên"
+
+#: inc/customizer.php:290
+msgid "Blog Layout"
+msgstr "Giao diện blog"
+
+#: inc/customizer.php:318
+msgid "Settings for Category, Tag, Search result, Author and Archive Pages."
+msgstr "Thiết lập cho Danh mục, Tag, Kết quả tìm kiếm, theo tác giả và Lưu trữ."
+
+#: inc/customizer.php:277
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:121
+msgid "Boxed"
+msgstr "Rộng có giới hạn"
+
+#: inc/customizer.php:120
+msgid "Full Width"
+msgstr "Rộng tối đa"
+
+#: inc/customizer.php:115
+msgid "Layout Style"
+msgstr "Mẫu bố cục"
+
+#: inc/customizer.php:270
+msgid "Display Header Image on Front Page Only"
+msgstr "Hiển thị ảnh to trên cùng chỉ trên trang chủ"
+
+#: inc/customizer.php:209
+msgid "Display the Home icon in the Main Menu"
+msgstr "Hiển thị biểu tượng Trang chủ trên Menu chính"
+
+#: inc/customizer.php:197
+msgid "Sticky Main Menu"
+msgstr "Menu chính luôn hiện khi scroll"
+
+#: inc/customizer.php:185
+msgid "Set a custom background for the Main Menu"
+msgstr "Tuỳ chỉnh nền cho Menu chính"
+
+#: inc/customizer.php:172
+msgid "Custom Background"
+msgstr "Nền tuỳ biến"
+
+#: inc/customizer.php:171
+msgid "Light"
+msgstr "Sáng"
+
+#: inc/customizer.php:170
+msgid "Dark"
+msgstr "Tối"
+
+#: inc/customizer.php:166
+msgid "Main Menu Style"
+msgstr "Kiểu menu chính"
+
+#: inc/customizer.php:154
+msgid "Header"
+msgstr "Trên cùng"
+
+#: inc/customizer.php:94
+msgid "Theme Settings"
+msgstr "Thiết lập giao diện"
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View xMag Plus"
+msgstr "Xem xMag Plus"
+
+#: inc/customize-pro/class-customize.php:76
+msgid "xMag Plus"
+msgstr "xMag Plus"
+
+#: header.php:28
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Chuyển tới nội dung"
+
+#: functions.php:197
+msgid "Footer Widget Area Right"
+msgstr "Widget cuối trang bên phải"
+
+#: functions.php:188
+msgid "Footer Widget Area Center"
+msgstr "Widget cuối trang giữa"
+
+#: functions.php:179
+msgid "Footer Widget Area Left"
+msgstr "Widget cuối trang bên trái"
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:99
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:94
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "bật"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:89
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:44
+msgid "Social Menu"
+msgstr "Menu mạng xã hội"
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr "Menu cuối trang"
+
+#: functions.php:42
+msgid "Top Menu"
+msgstr "Menu trên cùng"
+
+#: functions.php:41 header.php:32 header.php:87
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: footer.php:48
+msgid "Theme by %s"
+msgstr "Giao diện thiết kế bởi %s"
+
+#: footer.php:46
+msgid "Powered by %s"
+msgstr "Mã nguồn %s"
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Bình luận đã bị khoá."
+
+#: comments.php:55 comments.php:73
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:54 comments.php:72
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr "Danh sách bình luận"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Không tìm thấy nội dung. Hãy thử tìm kiếm hoặc các liên kết sẵn có trong website."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Rất tiếc! Trang này không tồn tại."
+
+#: template-parts/content-large.php:39 template-parts/content-page.php:37
+#: template-parts/content-single.php:49
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không tìm thấy nội dung bạn đang truy cập. Hãy thử chức năng tìm kiếm."
+
+#: search.php:53
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Không có kết quả phù hợp từ khoá. Hãy thử lại với từ khoá khác."
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chưa có bài viết nào. Hãy <a href=\"%1$s\">đăng bài đầu tiên</a>."
+
+#: search.php:23 template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#. Author of the plugin/theme
+msgid "Design Lab"
+msgstr "Design Lab"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.designlabthemes.com/xmag-wordpress-theme/"
+msgstr "http://www.designlabthemes.com/xmag-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.designlabthemes.com/"
+msgstr "http://www.designlabthemes.com/"
